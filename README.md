@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidanaalund
 - 👀 I’m interested in learning about development of applications and use of data science tools
-- 🌱 I’m currently learning Typescript, Data Structures and Algorithms, and C++
+- 🌱 I’m currently learning about Arduino, Javascript, Next.js, Java, and C++
 - 💞️ I’m looking to collaborate with other students!
 - 📫 How to reach me: aidan.aalund@utexas.edu
