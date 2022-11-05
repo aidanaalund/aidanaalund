@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidanaalund, an Engineering Student at UT Austin!
 - 👀 I’m interested in learning about development of applications and use of data science tools for experiments.
-- 🌱 I’m currently learning about Arduino, Python, Javascript, Java, and C++.
+- 🌱 I’m currently learning about Arduino, Python, Java, and C++.
 - 💞️ I’m looking to collaborate with other students!
 - 📫 How to reach me: aidan.aalund@utexas.edu
