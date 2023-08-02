@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aidanaalund, an Engineering Student at UT Austin!
+- 👋 Hi, I’m @aidanaalund, a computer engineering student at UT Austin!
 - 👀 I’m interested in learning about development of applications and use of data science tools for experiments.
 - 🌱 I’m currently learning about Arduino, Python, Machine Learning, Carbon Capture Utilization/Storage, and C.
 - 💞️ I’m looking to collaborate with other students and anyone interested in the fields above!
