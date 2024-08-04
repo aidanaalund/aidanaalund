@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidanaalund, a computer engineering student at UT Austin!
 - 👀 I’m interested in learning about cyber-physical systems, human-computer interaction, sustainability, and control.
-- 🌱 I’m currently learning about Arduino, Python, Machine Learning, Carbon Capture Utilization/Storage, and C.
+- 🌱 I primarily use C/C++, MATLAB/Simulink, and Python.
 - 💞️ I’m looking to collaborate with other students and anyone interested in the fields above!
 - 📫 How to reach me: aidan.aalund@utexas.edu
